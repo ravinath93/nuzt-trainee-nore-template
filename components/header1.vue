@@ -2,8 +2,8 @@
   <div>
     <h2>this is components > header1.vue </h2>
 
-       <!-- ################### -->
-       <div v-for="p in categories"   > 
+     <!-- ################### -->
+     <div v-for="p in categories" > 
        
         <h2  v-if=" p.parent_id === '-' " class="hover:" > cat - {{ p.name }}  </h2>        
 
@@ -12,7 +12,10 @@
         </div>       
 
     </div>
-      <!-- ################### -->
+    <!-- ################### -->
+
+
+    
 
   </div>
 </template>

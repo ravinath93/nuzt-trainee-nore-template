@@ -1,0 +1,7 @@
+
+
+  <i class="fa-brands fa-square-instagram p-2 bg-rasara-orange rounded-[100%] text-white border border-transparent hover:border-rasara-orange hover:bg-white hover:text-rasara-orange duration-400"></i>
+        <i class="fa-brands fa-facebook p-2 bg-rasara-orange rounded-[100%] text-white border border-transparent hover:border-rasara-orange hover:bg-white hover:text-rasara-orange duration-400"></i>
+        <i class="fa-brands fa-twitter p-2 bg-rasara-orange rounded-[100%] text-white border border-transparent hover:border-rasara-orange hover:bg-white hover:text-rasara-orange duration-400"></i>
+        <i class="fa-brands fa-whatsapp p-2 bg-rasara-orange rounded-[100%] text-white border border-transparent hover:border-rasara-orange hover:bg-white hover:text-rasara-orange duration-400"></i>
+        <i class="fa-brands fa-linkedin p-2 bg-rasara-orange rounded-[100%] text-white border border-transparent hover:border-rasara-orange hover:bg-white hover:text-rasara-orange duration-400"></i>
