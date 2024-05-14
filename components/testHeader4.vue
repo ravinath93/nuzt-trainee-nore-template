@@ -1,6 +1,5 @@
 <template>
   <div>
-    <!-- <h2>this is components > header1.vue </h2> -->
 
          
      <!-- start top header ##########  -->
@@ -89,8 +88,22 @@
 </template>
 
 <!-- script ###  -->
-<script setup>
+<script setup lang="ts" >
 const { data: categories } = await useFetch('https://api.dilferclothing.com/dilferclothing.com/get_product_category_list');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </script>
 

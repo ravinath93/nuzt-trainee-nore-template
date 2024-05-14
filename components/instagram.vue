@@ -5,7 +5,7 @@
     <div class="bg-[#D9D9D9] flex justify-center">
 
       <!-- container  -->
-      <div class=" container py-[85px] " >
+      <div class=" container py-[85px] md:flex " >
 
         <!-- left div  -->
         <div class="bg-slate-400 flex flex-col items-center lg:w-[48%]">          
@@ -18,11 +18,33 @@
         <!-- end left div  -->
 
         <!-- right div  -->
-        <div  class=" bg-slate-100 flex flex-col lg:w-[48%]" >
+        <div  class=" bg-slate-100 flex  lg:w-[48%]" >
+
          <!-- r-left  -->
-          <div></div>
-         <!-- r-right  -->
-          <div></div>          
+          <div>
+            <img src="../assets/img/insta/1.jpg" alt="" class="w-[360px]" >
+          </div>
+
+         <!-- r-right-top  -->
+          <div class="flex">
+
+            <!-- r-right-top-left  -->
+            <div>
+              <img src="../assets/img/insta/1.jpg" alt="" class="w-[175px]" >
+            </div>
+
+             <!-- r-right-top-right  -->
+             <div>
+              <img src="../assets/img/insta/1.jpg" alt="" class="w-[175px]" >
+             </div>
+
+          </div> 
+          
+         <!-- r-right-bottom  -->
+         <div>
+          <img src="../assets/img/insta/1.jpg" alt="" class="w-[175px]" >
+         </div>
+
         </div>
 
       </div>      

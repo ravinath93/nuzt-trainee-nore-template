@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>this is components > header1.vue </h2>
+    <h2>this is components > header1.vue regg </h2>
 
      <!-- ################### -->
      <div v-for="p in categories" > 
@@ -11,7 +11,7 @@
           <h2 v-if="p.id !== c.id && p.id == c.parent_id " class=""  >----- sub.c - {{ c.name }} </h2>         
         </div>       
 
-    </div>
+    </div> rtyr
     <!-- ################### -->
 
 
