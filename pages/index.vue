@@ -7,7 +7,28 @@
   <!-- end Hero Area ###############  -->
 
 
-  <instagram />
+   <!-- NEW ARRIVALS ###############  -->
+   <!-- titiel  -->
+   <div class="flex justify-center border py-10">
+    <h1 class="text-[48px] font-bold text-center"> NEW ARRIVALS </h1>    
+   </div> 
+
+   <newarrivals />
+
+
+
+   <!-- OUR BEST SELLERS ###############  -->
+   <!-- titiel  -->
+   <div class="flex justify-center border py-10">
+    <h1 class="text-[48px] font-bold text-center"> OUR BEST SELLERS </h1>    
+   </div>
+
+   
+
+   <!-- instagram section ###############  -->
+    <instagram />
+
+  
 
   </div>
 </template>

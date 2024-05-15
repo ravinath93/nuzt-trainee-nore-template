@@ -1,9 +1,8 @@
 <template>
-  <div>
-
+  <div class="sticky top-0 left-0 z-10" >
          
      <!-- start top header ##########  -->
-     <div class="w-auto bg-white lg:bg-[#D9D9D9] h-[80px] flex justify-center items-center px-5 " >
+     <div class="w-auto bg-white lg:bg-[#D9D9D9] h-[80px] flex justify-center items-center px-5  " >
 
       <!-- top header container -->
       <div class="container flex justify-between lg:justify-end items-center  bg-slate-0">
@@ -42,7 +41,7 @@
 
 
       <!-- start bottom header   -->
-      <div class=" h-[80px] bg-yellow-200 " >
+      <div class=" hidden lg:flex h-[80px] bg-yellow-200 mx-auto " >
 
           <!-- start dynamic menu #####  -->
           <div  class=" flex justify-end gap-1"  >
@@ -59,9 +58,7 @@
           <!-- end dynamic menu #####  -->
 
       </div>
-      <!-- start bottom header  -->
-
-     
+      <!-- start bottom header  -->   
 
 
   

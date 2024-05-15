@@ -1,7 +1,7 @@
 <template>  
 
   <!-- footer section  -->
-  <footer class="pb-[54px] pt-[54px] mt-11  text-black bg-white w-full h-auto flex justify-around border border-y-[#C0BCBC] ">
+  <footer class="pb-[54px] pt-[54px]  text-black bg-white w-full h-auto flex justify-around border border-y-[#C0BCBC] ">
     
     <!--start  top  #################### -->
     <div class="container px-5 flex flex-wrap  text-center lg:text-left justify-between ">
