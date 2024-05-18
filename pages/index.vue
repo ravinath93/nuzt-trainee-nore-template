@@ -1,10 +1,15 @@
 <template>
   <div>
+
+   
   
   <!-- start Hero Area ###############  -->
   <div class="heroSection  h-[80vh] flex justify-center items-center" >
   </div>
   <!-- end Hero Area ###############  -->
+
+
+  <newarrivalsDynamic />
 
 
    <!-- NEW ARRIVALS ###############  -->
